@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_J2EE.iml" filepath="$PROJECT_DIR$/.idea/Java_J2EE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model.iml" filepath="$PROJECT_DIR$/.idea/modules/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/View.iml" filepath="$PROJECT_DIR$/.idea/modules/View.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworldmvc.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworldmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/helloworldmvc.Model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.iml" filepath="$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.main.iml" filepath="$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.test.iml" filepath="$PROJECT_DIR$/.idea/modules/View/helloworldmvc.View.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworldmvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworldmvc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworldmvc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworldmvc.test.iml" />
     </modules>

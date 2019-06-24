@@ -16,6 +16,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/helloworldmvc" />
+            <option value="$PROJECT_DIR$/helloworldmvc/Controller" />
+            <option value="$PROJECT_DIR$/helloworldmvc/Model" />
+            <option value="$PROJECT_DIR$/helloworldmvc/View" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

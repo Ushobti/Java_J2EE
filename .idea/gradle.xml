@@ -3,10 +3,22 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/GradleMVC" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-5.5-rc-3-bin" />
+        <option name="gradleJvm" value="1.12" />
         <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/helloworldmvc" />
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-5.5-rc-3-bin/gradle-5.5-rc-3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/helloworldmvc" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
   </component>

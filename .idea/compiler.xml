@@ -10,6 +10,8 @@
       <module name="helloworldmvc.test" target="1.8" />
       <module name="helloworldmvc.View.main" target="1.8" />
       <module name="helloworldmvc.View.test" target="1.8" />
+      <module name="SpringExamples.main" target="1.8" />
+      <module name="SpringExamples.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

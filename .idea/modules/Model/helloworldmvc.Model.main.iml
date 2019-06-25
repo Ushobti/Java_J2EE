@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":Model:main" external.linked.project.path="$MODULE_DIR$/../../../helloworldmvc/Model" external.root.project.path="$MODULE_DIR$/../../../helloworldmvc" external.system.id="GRADLE" external.system.module.group="helloworldmvc.Model" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../helloworldmvc" rootProjectPath="$MODULE_DIR$/../../../helloworldmvc" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../SpringExamples" rootProjectPath="$MODULE_DIR$/../../../SpringExamples" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../helloworldmvc/Model/out/production/classes" />
     <exclude-output />

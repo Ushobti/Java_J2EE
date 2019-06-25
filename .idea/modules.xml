@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_J2EE.iml" filepath="$PROJECT_DIR$/.idea/Java_J2EE.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model.iml" filepath="$PROJECT_DIR$/.idea/modules/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringExamples.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringExamples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringExamples.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringExamples.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringExamples.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/View.iml" filepath="$PROJECT_DIR$/.idea/modules/View.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworldmvc.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworldmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.iml" filepath="$PROJECT_DIR$/.idea/modules/Controller/helloworldmvc.Controller.iml" />
